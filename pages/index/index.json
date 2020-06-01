@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "me-title":"../../components/title/title"
+  },
+  "navigationBarTitleText": "bilibili",
+  "navigationBarBackgroundColor": "#FF69B4"
+}

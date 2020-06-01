@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "me-title":"/components/title/title"
+  },
+  "navigationBarTitleText": "video detail",
+  "navigationBarBackgroundColor": "#FF69B4"
+}

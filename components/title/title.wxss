@@ -1,0 +1,57 @@
+/* components/title/title.wxss */
+.me_title{
+  display: flex;
+  align-items: center;
+  padding: 10rpx;
+  background-color: white;
+}
+
+.logo{
+  flex: 7;
+}
+
+.logo_img{
+  width: 140rpx;
+  height:60rpx;
+  padding-left: 10rpx;
+}
+
+.search_icon{
+  flex: 1;
+  position: relative;
+}
+
+.search_img{
+  width: 60rpx;
+  height: 44rpx;
+  position: absolute;
+  top: 50%;
+  margin-top: -22rpx;
+  left: 50%;
+  margin-left: -30rpx;
+}
+
+.user_icon{
+  flex: 2;
+  position: relative;
+}
+
+.user_img{
+  position: absolute;
+  top: 50%;
+  margin-top: -30rpx;
+  left: 50%;
+  margin-left: -27rpx;
+  width: 54rpx;
+  height: 60rpx;
+}
+
+.down_app{
+  flex: 3;
+  font-size: 30rpx;
+  background-color: #FF69B4;
+  color: white;
+  border-radius: 10rpx;
+  padding: 10rpx;
+  text-align: center;
+}
